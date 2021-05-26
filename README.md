@@ -2,9 +2,7 @@
 ### Hi there 👋
 I'm Sujeong Bae!
 I’m currently learning🌱 
-
-![footer](https://capsule-render.vercel.app/api?height=400)
-
+![footer](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient)
 <!--
 **sjbae77/sjbae77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
