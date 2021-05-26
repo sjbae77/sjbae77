@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Sujeong Bae!
+I’m currently learning🌱 
 
 <!--
 **sjbae77/sjbae77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
