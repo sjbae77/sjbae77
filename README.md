@@ -3,7 +3,7 @@
 I'm Sujeong Bae!
 I’m currently learning🌱 
 
-
+![header](https://capsule-render.vercel.app/api?height=400)
 
 <!--
 **sjbae77/sjbae77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
