@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient)
 ### Hi there 👋
 I'm Sujeong Bae!
 I’m currently learning🌱 
